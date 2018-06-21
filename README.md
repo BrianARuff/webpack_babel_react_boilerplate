@@ -1,7 +1,9 @@
-In order to use this, please run the following command.
+In order to use this, please run the following commands.
 
-        npm install
+        rm -rf .git (this removes any git tracking)
+        npm install (installs the dependecy packages)
 
+You will also need to name the package name, description, author, and license in package.json as well
 
 - includes the following npm packages
 
