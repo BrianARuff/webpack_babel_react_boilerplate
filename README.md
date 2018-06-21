@@ -7,7 +7,7 @@ You will also need to name the package name, description, author, and license in
 
 - includes the following npm packages
 
-    - webpack
+    - webpack 4
         - npm i webpack webpack-cli -D
         - npm i html-webpack-plugin -D
         - npm i webpack-dev-server -D
